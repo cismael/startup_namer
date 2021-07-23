@@ -39,9 +39,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/ProgramsOfMine/Flutter/flutter_windows_2.2.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.0",
+      "rootUri": "file:///C:/ProgramsOfMine/Flutter/flutter_windows_2.2.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "english_words",
